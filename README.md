@@ -1,6 +1,7 @@
 # 読んでください
 
-Rails Girls で作りました。
+Rails Girls で作ります。
+2017/3/25
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
